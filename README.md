@@ -4,7 +4,7 @@
 - 👨‍🎓 MMI Bordeaux alumni
 - 🌱 I'm open for freelancing opportunities as Web Developer
 - 📫 Contact me: andredespouys@gmail.com
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- [![André's GitHub stats](https://github-readme-stats-gamma-six-73.vercel.app/api?username=andredespouys)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>:zap: Github Stats</summary>
