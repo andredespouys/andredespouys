@@ -6,7 +6,8 @@
 - 📫 Contact me: andredespouys@gmail.com
 
 [![André's GitHub stats](https://github-readme-stats-gamma-six-73.vercel.app/api/top-langs/?username=andredespouys)](https://github.com/anuraghazra/github-readme-stats)
-![André's GitHub stats](https://github-readme-stats-gamma-six-73.vercel.app/api?username=andredespouys&show_icons=true&theme=transparent&hide=stars)
+
+[![André's GitHub stats](https://github-readme-stats-gamma-six-73.vercel.app/api?username=andredespouys&show_icons=true&theme=transparent&hide=stars,contribution&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # See my portfolio [here](https://www.despouysandre.com)
