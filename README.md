@@ -6,8 +6,8 @@
 - 📫 Contact me: andredespouys@gmail.com
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="andredespouys" src="https://github-readme-stats-andredespouys.vercel.app/api?username=andredespouys&show_icons=true&theme=radical
-"></img>
+  ![Anurag's GitHub stats](https://github-readme-stats-andredespouys.vercel.app/api?username=andredespouys&show_icons=true&theme=radical)
+
 
 
 </details>
