@@ -1,6 +1,6 @@
 # 👋 Hello there, I’m André Despouys
 
-- 🤓 Currently learning to become a Security Analyst ...
+- 🤓 Currently learning to become a Security Analyst
 - 👨‍🎓 MMI Bordeaux alumni
 - 🌱 I'm open for freelancing opportunities as Web Developer
 - 📫 Contact me: andredespouys@gmail.com
