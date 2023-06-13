@@ -4,10 +4,10 @@
 - 👨‍🎓 MMI Bordeaux alumni
 - 🌱 I'm open for freelancing opportunities as Web Developer
 - 📫 Contact me: andredespouys@gmail.com
-- [![André's GitHub stats](https://github-readme-stats-gamma-six-73.vercel.app/api/top-langs/?username=andredespouys)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>:zap: Github Stats</summary>
+  [![André's GitHub stats](https://github-readme-stats-gamma-six-73.vercel.app/api/top-langs/?username=andredespouys)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ## See my portfolio [here](https://www.despouysandre.com)
 <!---
