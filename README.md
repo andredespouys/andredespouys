@@ -6,7 +6,7 @@
 - 📫 Contact me: andredespouys@gmail.com
 <details>
   <summary>:zap: Github Stats</summary>
-  ![Anurag's GitHub stats](https://github-readme-stats-andredespouys.vercel.app/api?username=andredespouys&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats-gamma-six-73.vercel.app/api?username=andredespouys&show_icons=true&theme=radical)
 
 
 
