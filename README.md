@@ -1,11 +1,11 @@
-![memoji 2](https://github.com/andredespouys/andredespouys/assets/60386771/cb3b35ea-9c9b-4314-9fa7-cffd57c08dad)
+# 👋 Hello there, I’m André Despouys
 
-- 👋 Hi, I’m @andredespouys
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🤓 Currently learning to become a Security Analyst ...
+- 👨‍🎓 MMI Bordeaux alumni
+- 🌱 I'm open for freelancing opportunities as Web Developer
+- 📫 Contact me: andredespouys@gmail.com
 
+## See my portfolio [here](https://www.despouysandre.com)
 <!---
 andredespouys/andredespouys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
